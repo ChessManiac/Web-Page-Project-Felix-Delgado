@@ -1,2 +1,2 @@
 # Web-Page-Project-Felix-Delgado
-File located in master branch
+File located in master branch ("index.html")
